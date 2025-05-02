@@ -1,6 +1,7 @@
 body {
   font-family: 'Grandstander', cursive;
-  background-color: #e9edc9;
+  background-color: #ffd6ff
+    ;
   margin: 0;
   padding: 0;
   color: #3b3b3b;
@@ -25,7 +26,8 @@ body {
 
 
 nav {
-  background-color: #7a3b3b; /* muted maroon */
+  background-color: #1d3557
+    ; /* muted maroon */
   padding: 1em;
   text-align: center;
 }
